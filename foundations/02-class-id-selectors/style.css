@@ -4,20 +4,20 @@
     /* <div id="four">Number 4 - I'm another ID.</div> */
     /* <p class="pinkbg">Number 5 - I'm a class!</p> */
 
-.pinkbg{
+.odd{
     background-color: #ffc0cb;
     font-family: Verdana, Dejavu Sans , sans-serif;   
 }
 
 #two{
-    color: #0000ff;
+    color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
-.newfont{
+.oddly-cool{
     font-size: 24px;
 }
 #four{
-    background-color: #90ee90;
+    background-color: rgb(144, 238, 144);
     font-size: 24px;
     font-weight: bold;
 }
